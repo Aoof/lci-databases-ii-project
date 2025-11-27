@@ -1,1 +1,5 @@
--- Question 3: [Add question description here]
+-- Question 3:
+-- a) By using a cursor, type a PL/SQL program that displays the (id, description, capacity
+-- and city name) for all planes located in particular city (enter city name regardless of the
+-- case: ex:MonTreal) and their max passenger is greater or equal to a particular number.
+-- b) Execute this this code
